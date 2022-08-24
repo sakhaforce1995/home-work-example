@@ -108,5 +108,6 @@ public class Main {
 
         employee = employee * 8;
         System.out.println("то всего " + employee + " часов работы может быть поделено между сотрудниками");
+
     }
 }
